@@ -1,4 +1,4 @@
-# MIT 14.01 — Principles of Microeconomics (Self-Study)
+# MIT 14.01 - Principles of Microeconomics (Self-Study)
 
 This is an independent self-study of MIT OpenCourseWare materials.
 I am not enrolled at MIT and this represents no degree, credit, or
