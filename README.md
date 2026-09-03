@@ -16,7 +16,7 @@ in detail that's the real test anyway.
 ## Progress
 | Item | Status | Date |
 |------|--------|------|
-| Pset 1 | ⬜ | |
+| Pset 1 | [✅ Completed & graded](PSETS/PSET2) | 3rd of September 2026 |
 | Pset 2 | ⬜ | |
 | Pset 3 | ⬜ | |
 | Pset 4 | ⬜ | |
