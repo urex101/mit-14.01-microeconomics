@@ -17,7 +17,7 @@ in detail that's the real test anyway.
 | Item | Status | Date |
 |------|--------|------|
 | Pset 1 | [✅ Completed & graded](PSETS/PSET1) | 3rd of September 2026 |
-| Pset 2 | ⬜ | |
+| Pset 2 | [✅ Completed & graded](PSETS/PSET2) | 9th of October 2026 |
 | Pset 3 | ⬜ | |
 | Pset 4 | ⬜ | |
 | Midterm Exam | ⬜ | |
