@@ -14,18 +14,18 @@ solutions with AI assistance for grading(Fable 5). Happy to discuss any problem
 in detail that's the real test anyway.
 
 ## Progress
-| Item | Status | Date |
-|------|--------|------|
-| Pset 1 | [✅ Completed & graded](PSETS/PSET1) | 3rd of September 2026 |
-| Pset 2 | [✅ Completed & graded](PSETS/PSET2) | 9th of October 2026 |
-| Pset 3 | [✅ Completed & graded](PSETS/PSET3) | 14th of October 2026 |
-| Pset 4 | ⬜ | |
-| Midterm Exam | ⬜ | |
-| Pset 5 | ⬜ | |
-| Pset 6 | ⬜ | |
-| Pset 7 | ⬜ | |
-| Pset 8 | ⬜ | |
-| Final Exam | ⬜ | |
+| Item | Status | Date | Grade |
+|------|--------|------|-------|
+| Pset 1 | [✅ Completed & graded](PSETS/PSET1) | 3rd of September 2026 | C (74%) |
+| Pset 2 | [✅ Completed & graded](PSETS/PSET2) | 9th of October 2026 | C (75.5%) |
+| Pset 3 | [✅ Completed & graded](PSETS/PSET3) | 14th of October 2026 | C+ (79.5%) |
+| Pset 4 | ⬜ | | |
+| Midterm Exam | ⬜ | | |
+| Pset 5 | ⬜ | | |
+| Pset 6 | ⬜ | | |
+| Pset 7 | ⬜ | | |
+| Pset 8 | ⬜ | | |
+| Final Exam | ⬜ | | |
 
 ## Topics covered
 Supply and demand, consumer theory (preferences, utility maximization, income and substitution effects), producer theory (production functions, cost curves), perfect competition, monopoly and pricing power, oligopoly and game theory, factor markets, welfare economics, market failures, and an introduction to trade.
