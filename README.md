@@ -16,9 +16,9 @@ in detail that's the real test anyway.
 ## Progress
 | Item | Status | Date | Grade |
 |------|--------|------|-------|
-| Pset 1 | [✅ Completed & graded](PSETS/PSET1) | 3rd of September 2026 | C (74%) |
-| Pset 2 | [✅ Completed & graded](PSETS/PSET2) | 9th of October 2026 | C (75.5%) |
-| Pset 3 | [✅ Completed & graded](PSETS/PSET3) | 14th of October 2026 | C+ (79.5%) |
+| Pset 1 | [✅ Completed & graded](PSETS/PSET1) | 3rd of September 2026 | 74% |
+| Pset 2 | [✅ Completed & graded](PSETS/PSET2) | 9th of October 2026 | 75.5% |
+| Pset 3 | [✅ Completed & graded](PSETS/PSET3) | 14th of October 2026 | 79.5% |
 | Pset 4 | ⬜ | | |
 | Midterm Exam | ⬜ | | |
 | Pset 5 | ⬜ | | |
