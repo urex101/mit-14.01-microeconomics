@@ -19,7 +19,7 @@ in detail that's the real test anyway.
 | Pset 1 | [✅ Completed & graded](PSETS/PSET1) | 3rd of September 2026 | 74% |
 | Pset 2 | [✅ Completed & graded](PSETS/PSET2) | 9th of October 2026 | 75.5% |
 | Pset 3 | [✅ Completed & graded](PSETS/PSET3) | 14th of October 2026 | 79.5% |
-| Pset 4 | ⬜ | | |
+| Pset 4 | [✅ Completed & graded](PSETS/PSET4) | 18th of October 2026 | 91.5 |
 | Midterm Exam | ⬜ | | |
 | Pset 5 | ⬜ | | |
 | Pset 6 | ⬜ | | |
